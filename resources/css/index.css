@@ -1,0 +1,18 @@
+* {
+    font-family: "Cedarville Cursive";
+    src: url("https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap");
+    background-image: url("C:\Users\schmi\OneDrive\Documents\gsschmix.github.io\resources\images\output.jpg");
+}
+h1 {
+    color: seagreen;
+}
+
+p,
+li {
+    font-size: 18px;
+    
+}
+
+a {
+    text-decoration: none;
+}
