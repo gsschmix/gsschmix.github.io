@@ -1,9 +1,16 @@
 * {
-    font-family: "Cedarville Cursive";
+    font-family: serif;    
     
 }
 h1 {
-    color: gray;
+    color: black;
+    font-weight: bold;
+    font-family: "Cedarville Cursive";
+    text-align: center;
+    
+}
+
+body {
     background-image: url("./output.jpg");
 }
 
@@ -14,5 +21,5 @@ li {
 }
 
 a {
-    text-decoration: none;
+   color: white; 
 }
